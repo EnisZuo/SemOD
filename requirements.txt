@@ -1,0 +1,9 @@
+numpy
+matplotlib
+tensorboardX
+loguru
+tqdm
+shapely==2.0.0
+PyYAML
+opencv-python
+pillow
